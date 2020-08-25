@@ -2,7 +2,7 @@ from datetime import datetime
 
 
 def main():
-	name = input("What is your name? ")
+	name = input("What is your name? ");
 	bday_month = input("What month were you born in? ")
 
 	print(f"\nHello, {name.title()}!")
